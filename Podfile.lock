@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SDWebImageSwiftUI (2.0.1):
+    - SDWebImage (~> 5.10)
+  - XCDYouTubeKit (2.15.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImageSwiftUI
+  - XCDYouTubeKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SDWebImageSwiftUI: ff3dc77f69330e6513c655bcb9b5080a033405a5
+  XCDYouTubeKit: b120aced3d8638ffb570c5450cddb5a1dac448c7
+
+PODFILE CHECKSUM: 2e2e27de848264390f82372f37838a7792b154be
+
+COCOAPODS: 1.10.1
